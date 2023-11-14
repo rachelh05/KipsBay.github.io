@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Kips Bay!"
 date:   2023-11-14 14:42:07 -0500
 categories: jekyll update
 ---
